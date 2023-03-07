@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hola! Soy Eduardo Balbastro
+### Estoy estudiando en el Bootcamp de Henry y el Bootcamp de Undefinded Shell
+### Comandos que mas utilizo en la terminal
+| Comando | Descripcion |
+|---------|-------------|
+|ls	    |Lista los archivos y carpetas del directorio actual                              |
+|pwd	|Muestra en que directorio esta posicionada actualmente la terminal               |
+|cp	    |Copia un archivo o directorio                                                    |
+|mv	    |Mueve un archivo o directoio a otra ubicacion                                    |
+|grep	|filtra por una palabra                                                           |
 
-<!--
-**Ewuawo/ewuawo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
